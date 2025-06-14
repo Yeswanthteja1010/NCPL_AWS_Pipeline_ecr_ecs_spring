@@ -31,7 +31,7 @@ phases:
       - ls -R
 
 artifacts:
-  base-directory: k8s-out
+  base-directory: k8s
   files:
     - deployment.yaml
     - service.yaml
